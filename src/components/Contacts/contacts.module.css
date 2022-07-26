@@ -1,0 +1,9 @@
+.item{
+    margin-bottom: 15px;
+}
+.button{
+    margin-left: 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background-color: transparent;
+}
